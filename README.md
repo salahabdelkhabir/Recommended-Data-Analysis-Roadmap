@@ -7,8 +7,7 @@
 This repository contains multiple learning roadmaps I've assembled through extensive research and personal trials. Each roadmap provides a structured approach to mastering different technology fields and skill sets.
 
 ## 🗂️ Available Roadmaps
-
-- [Data Analysis Roadmap](./data-analysis-roadmap.md) - A comprehensive guide to becoming a proficient data analyst
+- [Data Analysis Roadmap](https://github.com/salahabdelkhabir/Recommended-Roadmaps/blob/Main/Data%20Analysis%20Roadmap) - A comprehensive guide to becoming a proficient data analyst
 - *More roadmaps coming soon!*
 
 ## ⚠️ Important Notes
