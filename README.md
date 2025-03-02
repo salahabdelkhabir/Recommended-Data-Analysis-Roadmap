@@ -23,7 +23,7 @@ This roadmap provides a comprehensive, step-by-step guide to mastering data anal
 **Goal:** Build a strong foundation in probability, statistics, and problem-solving.
 
 #### 1️⃣ Probability & Statistics
-- Complete "Probability & Statistics MOOC" (6 weeks)
+- Complete "Probability and Statistics: To p or not to p?" on Coursera (6 weeks)
 - Optional deeper dive: *Introduction to Probability* textbook
 - Practice with Khan Academy statistics exercises
 
@@ -64,7 +64,7 @@ This roadmap provides a comprehensive, step-by-step guide to mastering data anal
 - Read: *Storytelling with Data: Let's Practice*
 - Practice data cleaning & visualization with Pandas & Matplotlib
 
-#### 📁 Portfolio Projects Examples:
+#### 📁 Portfolio Projects
 - COVID-19 trend analysis using Python
 - Interactive Power BI dashboard
 - Customer segmentation using Python & SQL
