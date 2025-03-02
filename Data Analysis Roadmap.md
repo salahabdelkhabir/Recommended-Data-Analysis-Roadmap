@@ -23,9 +23,8 @@ This roadmap provides a comprehensive, step-by-step guide to mastering data anal
 **Goal:** Build a strong foundation in probability, statistics, and problem-solving.
 
 #### 1️⃣ Probability & Statistics
-- Complete "Probability and Statistics: To p or not to p?" on Coursera (6 weeks)
+- Complete [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) on Coursera (6 weeks)
 - Optional deeper dive: *Introduction to Probability* textbook
-- Practice with Khan Academy statistics exercises
 
 #### 2️⃣ Python Programming & Problem-Solving
 - Complete [Python for Applied Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai) on Coursera
