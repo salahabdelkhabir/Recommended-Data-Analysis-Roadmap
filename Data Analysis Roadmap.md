@@ -8,7 +8,7 @@ This roadmap provides a comprehensive, step-by-step guide to mastering data anal
 
 ## 📊 Learning Path Summary
 
-| Phase | Focus Area | Duration | Key Outcomes |
+| Phase | Focus Area | Proposed Duration | Key Outcomes |
 |-------|------------|----------|-------------|
 | 1 | Foundations | 2-3 months | Statistics & Python fundamentals |
 | 2 | Data Tools | 2-3 months | Visualization & analysis toolkit |
